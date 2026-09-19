@@ -108,29 +108,48 @@
 
 
 
-Console.Write("Введите имя и фамилию: ");
-string nameInput = Console.ReadLine();
+// Console.Write("Введите имя и фамилию: ");
+// string nameInput = Console.ReadLine();
 
-Console.Write("Введите группу: ");
-string groupInput = Console.ReadLine();
+// Console.Write("Введите группу: ");
+// string groupInput = Console.ReadLine();
 
-Console.Write("Введите год рождения: ");
-string birthYearInput = Console.ReadLine();
-int birthYearParse = int.Parse(birthYearInput);
+// Console.Write("Введите год рождения: ");
+// string birthYearInput = Console.ReadLine();
+// int birthYearParse = int.Parse(birthYearInput);
 
-Console.Write("Введите средний балл: ");
-string averageScoreInput = Console.ReadLine();
-double averageScore = double.Parse(averageScoreInput);
+// Console.Write("Введите средний балл: ");
+// string averageScoreInput = Console.ReadLine();
+// double averageScore = double.Parse(averageScoreInput);
 
-Console.Write("Введите любимую букву: ");
-string favoriteLetter = Console.ReadLine();
+// Console.Write("Введите любимую букву: ");
+// string favoriteLetter = Console.ReadLine();
 
-bool score = true;
+// bool score = true;
 
-Console.WriteLine();
-Console.WriteLine("Анкета");
-Console.WriteLine($"{nameInput}, Группа {groupInput}");
-Console.WriteLine($"Год рождения: {birthYearParse} (в 2030 будет {2030 - birthYearParse})");
-Console.WriteLine($"Средний балл: {averageScore}");
-Console.WriteLine($"Балл >= 4.0: {score}");
-Console.WriteLine($"Любимая буква: {favoriteLetter}");
+// Console.WriteLine();
+// Console.WriteLine("Анкета");
+// Console.WriteLine($"{nameInput}, Группа {groupInput}");
+// Console.WriteLine($"Год рождения: {birthYearParse} (в 2030 будет {2030 - birthYearParse})");
+// Console.WriteLine($"Средний балл: {averageScore}");
+// Console.WriteLine($"Балл >= 4.0: {score}");
+// Console.WriteLine($"Любимая буква: {favoriteLetter}");
+
+
+
+
+
+
+
+
+Console.Write("Введите ваш рост: ");
+string heightInput = Console.ReadLine();
+double height = double.Parse(heightInput);
+
+Console.Write("Введите ваш вес: ");
+string weightInput = Console.ReadLine();
+double weight = double.Parse(weightInput);
+
+double imt = weight / (height * height);
+
+Console.WriteLine($"Ваш ИМТ : {imt:F2}");
