@@ -47,11 +47,26 @@
 
 
 
+// Console.WriteLine();
+// Console.WriteLine("var");
+
+// var studentAge = 20;
+// var gpa = 4.75;
+// var fullName = "Смирнова А.С.";
+
+// Console.WriteLine($"{fullName}, возраст {studentAge}, средний балл {gpa}");
+
+
+
+
+
 Console.WriteLine();
-Console.WriteLine("var");
+Console.WriteLine("Ввод текста");
 
-var studentAge = 20;
-var gpa = 4.75;
-var fullName = "Смирнова А.С.";
+Console.Write("Введите ваше имя: ");
+string enteredName = Console.ReadLine();
 
-Console.WriteLine($"{fullName}, возраст {studentAge}, средний балл {gpa}");
+Console.Write("Введите название вашй группы: ");
+string enteredGroup = Console.ReadLine();
+
+Console.WriteLine($"Здравствуйте, {enteredName} из группы {enteredGroup}!");
