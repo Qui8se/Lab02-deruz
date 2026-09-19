@@ -1,0 +1,14 @@
+C:\Users\Qui8se\Documents\Lab02-deruz\bin\Debug\net10.0\Lab02-deruz.exe
+C:\Users\Qui8se\Documents\Lab02-deruz\bin\Debug\net10.0\Lab02-deruz.deps.json
+C:\Users\Qui8se\Documents\Lab02-deruz\bin\Debug\net10.0\Lab02-deruz.runtimeconfig.json
+C:\Users\Qui8se\Documents\Lab02-deruz\bin\Debug\net10.0\Lab02-deruz.dll
+C:\Users\Qui8se\Documents\Lab02-deruz\bin\Debug\net10.0\Lab02-deruz.pdb
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.AssemblyInfoInputs.cache
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.AssemblyInfo.cs
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.csproj.CoreCompileInputs.cache
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.dll
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\refint\Lab02-deruz.dll
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.pdb
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.genruntimeconfig.cache
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\ref\Lab02-deruz.dll
