@@ -12,3 +12,4 @@ C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\refint\Lab02-deruz.dll
 C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.pdb
 C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.genruntimeconfig.cache
 C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\ref\Lab02-deruz.dll
+C:\Users\Qui8se\Documents\Lab02-deruz\obj\Debug\net10.0\Lab02-deruz.sourcelink.json
