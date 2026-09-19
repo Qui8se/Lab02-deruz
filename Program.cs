@@ -35,11 +35,23 @@
 
 
 
+// Console.WriteLine();
+// Console.WriteLine("decimal против double");
+
+// double priceDouble = 0.1 + 0.2;
+// decimal priceDecimal = 0.1m + 0.2m;
+
+// Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
+// Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
+
+
+
+
 Console.WriteLine();
-Console.WriteLine("decimal против double");
+Console.WriteLine("var");
 
-double priceDouble = 0.1 + 0.2;
-decimal priceDecimal = 0.1m + 0.2m;
+var studentAge = 20;
+var gpa = 4.75;
+var fullName = "Смирнова А.С.";
 
-Console.WriteLine($"double: 0.1 + 0.2 = {priceDouble}");
-Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
+Console.WriteLine($"{fullName}, возраст {studentAge}, средний балл {gpa}");
